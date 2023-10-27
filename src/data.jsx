@@ -54,4 +54,12 @@ export const projects = [
     title: "Gym Routes",
     text: "How gyms should Go on the web ",
   },
+  {
+    id: nanoid(),
+    img: "https://images.ctfassets.net/vklsgsrddkxg/2kBFAtdqK4b9skZXhkSQpU/c4da1a13dcf40ca558c67775cd301a59/Screenshot_2023-10-27_164830.png",
+    url: "https://comfy-y93q.vercel.app/",
+    github: "https://github.com/creator11-droid/comfy",
+    title: "e-commerce",
+    text: "comfy stores ",
+  },
 ];
