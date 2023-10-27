@@ -40,7 +40,7 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: "https://images.pexels.com/photos/2148222/pexels-photo-2148222.jpeg?auto=compress&cs=tinysrgb&w=800",
+    img: "https://images.ctfassets.net/vklsgsrddkxg/1iZlhtMjp7hmg1AprqtrXp/d57e5d6bee5126a80e591d13dc8a869a/basketball.png",
     url: "https://extraordinary-tulumba-c4190e.netlify.app/",
     github: "https://github.com/creator11-droid/resposive-basketballa",
     title: "Basketball",
