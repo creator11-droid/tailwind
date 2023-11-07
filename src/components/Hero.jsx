@@ -17,7 +17,7 @@ const Hero = () => {
             <a href="https://github.com/creator11-droid" >
               <FaGithubSquare className="h-8 w-8 text-slate-500 hover:text-black duration-300" />
             </a>
-            <a href="https://www.linkedin.com/in/atole-kester-b14737196/">
+            <a href="https://www.linkedin.com/in/atole-kester">
               <FaLinkedin className="h-8 w-8 text-slate-500 hover:text-black duration-300" />
             </a>
             <a href="#">
