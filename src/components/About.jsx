@@ -10,7 +10,7 @@ const About = () => {
           <SectionTitle text="About Me" />
           <p className="text-slate-600 mt-8 leading-loose">
             I am an efficient Full-Stack developer , i schooled in the
-            University of Benin, Nigeria. I enjoy playing games and reading on
+            University of Benin, Nigeria. I enjoy playing games and reading in
             my free time.
           </p>
         </article>
